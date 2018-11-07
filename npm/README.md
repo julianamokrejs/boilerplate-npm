@@ -1,4 +1,4 @@
-# Boilerplate para NPM
+# Boilerplate NPM
 
 Boilerplate simples para projetos em JS e CSS.
 
